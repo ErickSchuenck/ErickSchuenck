@@ -1,8 +1,4 @@
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Docker & AWS.
-- 👯 I’m looking to collaborate on Web Development with my knowledge of JS!
-- 📫 Reach me with my email: esfmokdeci@gmail.com
-- 
+
 <div align="center">
   <a href="https://github.com/ErickSchuenck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickSchuenck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,6 +13,11 @@
 </div>
   
   ##
+  
+  - 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Docker & AWS.
+- 👯 I’m looking to collaborate on Web Development with my knowledge of JS!
+- 📫 Reach me with my email: esfmokdeci@gmail.com
  
 <div>
   <a href = "mailto:esfmokdeci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
