@@ -1,4 +1,11 @@
-
+<div style="display: flex;"> 
+  <a href="https://github.com/ErickSchuenck">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ErickSchuenck&theme=ocean_dark&show_icons=true&layout=default&langs_count=5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickSchuenck&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ErickSchuenck&theme=tokyonight&show_icons=true&layout=default&langs_count=5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickSchuenck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+  
   ##
   
 - 🔭 I’m currently working on ...
