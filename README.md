@@ -1,8 +1,8 @@
 
   ##
   
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Docker & AWS.
+- 🔭 I’m currently working on Ownership Matters
+- 🌱 I’m currently learning Vue & Angular.
 - 👯 I’m looking to collaborate on Web Development with my knowledge of JS!
 - 📫 Reach me with my email: esfmokdeci@gmail.com
   
