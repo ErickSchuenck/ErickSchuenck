@@ -5,7 +5,7 @@ esfmokdeci@gmail.com
 www.linkedin.com/in/ErickSchuenck
 
 
-EXPERIÊNCIA
+EXPERIÊNCIA:
 Ownership Matters — Fullstack Engineer
 10/22 - Atualmente / Trabalho Remoto
 Construção ponta a ponta da plataforma de
@@ -21,7 +21,7 @@ Para o banco de dados, foi utilizado postgreSQL
 com o ORM prisma. O deploy da plataforma
 ocorreu com AWS EC2 e Nginx.
 
-HABILIDADES E TECNOLOGIAS
+HABILIDADES E TECNOLOGIAS:
 Back End
 ● Node JS
 ● SQL & PostgreSQL
@@ -43,13 +43,14 @@ Deploy
 ● Vercel & Heroku
 ● Docker & AWS
 
-Testes Automatizados
+Testes Automatizados:
 ● Unitários, ponta-a-ponta (E2E) e Integração
 ● Jest
 ● Cypress
 ● Autocannon
 ● Selenium
-CAPACITAÇÃO
+
+CAPACITAÇÃO:
 Driven Education — Fullstack Software
 Engineering
 2021 - 2022
@@ -67,13 +68,13 @@ integração automatizados front-back end.
 100+ horas de práticas utilizando databases SQL e
 NoSQL.
 
-LINGUAGENS DE PROGRAMAÇÃO
+LINGUAGENS DE PROGRAMAÇÃO:
 ● Javascript
 ● Lua
 ● Dart
 ● Java
 
-IDIOMAS
+IDIOMAS:
 Português— nativo
 Inglês — fluente - 830 horas de curso por
 Uptake idiomas/ Certificado First
