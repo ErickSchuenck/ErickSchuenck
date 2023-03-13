@@ -43,7 +43,7 @@ Deploy
 ● Vercel & Heroku
 ● Docker & AWS
 
-Testes Automatizados:
+TESTES AUTOMATIZADOS:
 ● Unitários, ponta-a-ponta (E2E) e Integração
 ● Jest
 ● Cypress
