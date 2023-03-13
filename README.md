@@ -1,18 +1,85 @@
+Contato:
+Juiz de Fora - MG
+Tel: (32) 98495-2094
+esfmokdeci@gmail.com
+www.linkedin.com/in/ErickSchuenck
 
-  ##
-  
-- 🔭 I’m currently working on Ownership Matters
-- 🌱 I’m currently learning Vue & Angular.
-- 👯 I’m looking to collaborate on Web Development with my knowledge of JS!
-- 📫 Reach me with my email: esfmokdeci@gmail.com
-  
-Possuo formação em Desenvolvimento Web por Driven Education. Atuo com ambas Stacks (front e backend) em manutenção e desenvolvimento. Sou guiado pela missão de integrar a tecnologia para abrir portas e criar possibilidades para todos.
 
-Atualmente trabalho com Javascript, React, Node. Possuo domínio de HTML, CSS, Typescript, SQL, Prisma e MongoDb. Tenho experiência em criar APIs funcionais através do Express e já fiz o deploy de aplicações no Vercel e no Heroku.
+EXPERIÊNCIA
+Ownership Matters — Fullstack Engineer
+10/22 - Atualmente / Trabalho Remoto
+Construção ponta a ponta da plataforma de
+publicação livre da Ownership Matters, outlet de
+mídia baseada em Washington, D.C. (EUA).
+Dentre as funcionalidades, podemos destacar a
+edição de texto com a biblioteca Quill, o envio de
+notificações por Nodemailer e SendGrid, bem
+como o upload de imagens com multer. No
+frontend, foi utilizado o React.js. No backend,
+foram utilizados typescript, node.js e express.
+Para o banco de dados, foi utilizado postgreSQL
+com o ORM prisma. O deploy da plataforma
+ocorreu com AWS EC2 e Nginx.
 
-Acredito que as competências sociais são imprescindíveis não somente para desenvolvedores, mas também para qualquer profissional que trabalhe em time. Dessa forma, busco sempre aprimorar minha inteligência emocional e minhas relações interpessoais.
+HABILIDADES E TECNOLOGIAS
+Back End
+● Node JS
+● SQL & PostgreSQL
+● MongoDB & Mongo Atlas
+● Typescript
+● Prisma ORM
+● Express
+● Layered Architecture
+● REST APIs
+● Redis
+● Spring Boot
+Front End
+● React JS
+● CSS 3
+● HTML 5
+● Styled Components
+● Redux
+Deploy
+● Vercel & Heroku
+● Docker & AWS
 
-Estudei Psicologia por 6 anos no Centro de Ensino Superior de Juiz de Fora (MG) e dedico meu tempo livre para o aprimoramento nos temas Jungianos. Apesar dos estudos, sempre encontro tempo de passear com meu gato e limpar meus aquários!
+Testes Automatizados
+● Unitários, ponta-a-ponta (E2E) e Integração
+● Jest
+● Cypress
+● Autocannon
+● Selenium
+CAPACITAÇÃO
+Driven Education — Fullstack Software
+Engineering
+2021 - 2022
+1200 horas intensivas de cursos e foco em projetos
+práticos.
+450+ horas de Javascript em prática dedicada.
+150+ horas utilizando o framework React.
+150+ horas utilizando Node.
+20+ projetos de aplicações Web incluindo projetos
+individuais e de coworking.
+30+ horas de projetos com testes unitários e de
+integração automatizados front-back end.
+50+ horas de prática utilizando metodologias ágeis
+(Scrum) - Ferramentas como Trello, Git, Slack.
+100+ horas de práticas utilizando databases SQL e
+NoSQL.
+
+LINGUAGENS DE PROGRAMAÇÃO
+● Javascript
+● Lua
+● Dart
+● Java
+
+IDIOMAS
+Português— nativo
+Inglês — fluente - 830 horas de curso por
+Uptake idiomas/ Certificado First
+Cambridge Exam.
+Alemão — intermediário - 400 horas de
+curso por Wizards idiomas.
  
 <div>
   <a href = "mailto:esfmokdeci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
