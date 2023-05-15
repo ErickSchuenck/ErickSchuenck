@@ -1,7 +1,4 @@
-Contato:
-Juiz de Fora - MG
-esfmokdeci@gmail.com
-www.linkedin.com/in/ErickSchuenck
+
 
 Possuo formação em Desenvolvimento Web por Driven Education. Atuo com ambas Stacks (front e backend) em manutenção e desenvolvimento.
 
@@ -16,3 +13,4 @@ Trabalhei remotamente na Ownership Matters (Washington DC), como desenvolvedor f
 Desde abril de 2023, estou trabalhando como desenvolvedor Oracle HCM na DBS, em Juiz de Fora. Consegui a posição após um trainee de três semanas e agora trabalho em um ambiente híbrido. Meu papel envolve a manutenção e o desenvolvimento de integrações para atender às necessidades de gerenciamento de recursos humanos da empresa.
 
 Caso queira entrar em contato, sinta-se à vontade para me enviar um e-mail para esfmokdeci@gmail.com.
+www.linkedin.com/in/ErickSchuenck
