@@ -2,7 +2,7 @@
 
 Possuo formação em Desenvolvimento Web por Driven Education. Atuo com ambas Stacks (front e backend) em manutenção e desenvolvimento.
 
-Atualmente trabalho com Javascript, React, Node. Possuo domínio de HTML, CSS, Typescript, SQL, Prisma e MongoDb. Tenho experiência em criar APIs funcionais através do Express e já fiz o deploy de aplicações no AWS, Vercel e no Heroku.
+Trabalho com Javascript, React, Node. Possuo domínio de HTML, CSS, Typescript, SQL, Prisma e MongoDb. Tenho experiência em criar APIs funcionais através do Express e já fiz o deploy de aplicações no AWS, Vercel e no Heroku.
 
 Acredito que as competências sociais são imprescindíveis não somente para desenvolvedores, mas também para qualquer profissional que trabalhe em time. Dessa forma, busco sempre aprimorar minha inteligência emocional e minhas relações interpessoais.
 
