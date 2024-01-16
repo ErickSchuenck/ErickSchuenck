@@ -1,1 +1,1 @@
-Developer since 2021, adept in JavaScript, React, and Node.js. Delved into Oracle HCM, mastering SQL intricacies. Presently engaged in crafting solutions at Starcompany using React, and exploring the possibilities with Nest.js for modern development.
+Developer since 2021, adept in JavaScript, React, and Node.js. Delved into Oracle HCM, mastering SQL intricacies. Presently engaged in crafting solutions at Starcompany using React, and exploring new possibilities with Nest.js.
