@@ -1,3 +1,5 @@
+# Erick Schuenck
+
 Developer since 2021, studied at Driven education. Currently living in Santa Catarina, Brazil.
 
 In 2022 I worked in the end-to-end development of Ownership Matters' open publishing platform, a media outlet based in Washington, D.C. The platform boasts various functionalities, including text editing using the Quill library, notification sending via Nodemailer and SendGrid, and seamless image uploads facilitated by multer. React.js, coupled with styled components, powered the frontend, while TypeScript, Node.js, and Express formed the robust backend foundation. For the database, we relied on PostgreSQL integrated with the Prisma ORM. During development, we deployed the platform on Heroku, later transitioning to AWS EC2 and Nginx for hosting post-launch.
