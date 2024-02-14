@@ -1,6 +1,6 @@
 # Erick Schuenck
 
-Developer since 2021, studied at Driven education. Currently living in Santa Catarina, Brazil. Devoted enemy of nosql databases. 
+Developer since 2021, studied at Driven education. Currently living in Santa Catarina, Brazil. Devoted enemy of noSQL databases. 
 
 ## Experience
 
