@@ -1,6 +1,6 @@
 # Erick Schuenck
 
-Developer since 2021, studied at Driven education. Born in Minas Gerais, currently living in Santa Catarina, Brazil. Devoted enemy of noSQL databases. 
+Developer since 2021, studied at Driven education. Born in Minas Gerais, currently living in Florianópolis, Brazil. Devoted enemy of noSQL databases. 
 
 ## Experience
 
