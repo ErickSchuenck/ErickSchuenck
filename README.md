@@ -1,6 +1,6 @@
-# Erick Schuenck F Mokdeci
+# Erick Schuenck F. Mokdeci
 
-Developer since 2021, studied at Driven education. Born in Minas Gerais, currently living in Florianópolis, Brazil. Devoted enemy of PHP.
+Developer since 2021, studied at Driven Education. Born in Minas Gerais, currently living in Florianópolis, Brazil. Devoted enemy of PHP.
 
 ## Experience
 
