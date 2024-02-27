@@ -1,4 +1,4 @@
-# Erick Schuenck F. Mokdeci
+# Erick Schuenck Fava Mokdeci
 
 Developer since 2021, studied at Driven Education. Born in Pedra Dourada - _MG_, currently living in Florianópolis - _SC_, Brazil.
 
