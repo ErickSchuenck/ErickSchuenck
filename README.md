@@ -1,6 +1,6 @@
 # Erick Schuenck F. Mokdeci
 
-Developer since the start of 2021, studied at Driven Education. Born in _Pedra Dourada - MG_, currently living and working at _Florianópolis - SC_, Brazil.
+Developer since 2021, studied at Driven Education. Born in _Pedra Dourada - MG_, currently living and working at _Florianópolis - SC_, Brazil.
 
 ## Developer Experiences:
 
