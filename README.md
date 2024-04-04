@@ -2,6 +2,8 @@
 
 Developer since 2021, studied at Driven Education. Born in _Pedra Dourada - MG_, currently living and working at _Florianópolis - SC_, Brazil.
 
+## Proficient Languages:
+Portuguese _(native)_, English _(b2)_
 ## Developer Experiences:
 
 ### _Ownership Matters_
