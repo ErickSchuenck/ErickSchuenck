@@ -12,4 +12,4 @@ Last year worked as Oracle Developer at DBS Digital in Juiz de Fora - Minas gera
 ### - _Interstar / Coopercompany_
 Since late 2023, I've immersed myself back into hard-coding as a Developer at Interstar where I collaborate with a talented development team. In this role, I specialize in React, NestJS with TypeORM, and perform seamless integrations with external platforms, like clicksign, and directus. Working within a collaborative team environment I exercise my organizational skills. Additionally, I proficiently handle SQL databases, particularly PostgreSQL. Currently, I am deeply engaged in the Libertas project, driving innovation and excellence in software development. 
 
-▲ _Alea iacta est_ ▲
+▲▲▲ _Alea iacta est_ ▲▲▲
