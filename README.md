@@ -2,7 +2,7 @@
  
 ## About me:
 
-Developer since 2021, studied at Driven Education. Bjj 2 degrees white belt (I hunt 1 degrees white belt every morning). Born in 1997 in Minas Gerais, currently living and working at _Florianópolis - SC_, Brazil. Declared enemy of Typeorm automatic migrations, beautiful console terminals and the inexorable determinism of Laplace's demons. 
+Developer since 2021, studied at Driven Education. Born in 1997 in Minas Gerais, currently living and working at _Florianópolis - SC_, Brazil. Declared enemy of Typeorm automatic migrations, beautiful console terminals and the inexorable determinism of Laplace's demons. 
 ## Work Experience in technology:
 
 ###  - _Ownership Matters_
