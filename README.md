@@ -1,4 +1,4 @@
-# Erick Schuenck F. Mokdeci
+# Erick Schuenck Fava Mokdeci
  
 ## About me:
 
