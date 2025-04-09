@@ -1,5 +1,5 @@
 # Erick Schuenck Fava Mokdeci
-![alea](https://github.com/user-attachments/assets/709116d8-47f2-4bf9-931b-e0cb8047852a)
+![1](https://github.com/user-attachments/assets/b66a0259-8dbf-4094-9990-aacb96cf677a)
 
 ## About me:
 
