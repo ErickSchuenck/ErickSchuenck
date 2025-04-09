@@ -1,6 +1,4 @@
 # Erick Schuenck Fava Mokdeci
-![1](https://github.com/user-attachments/assets/b66a0259-8dbf-4094-9990-aacb96cf677a)
-
 ## About me:
 
 Developer since 2021, studied at Driven Education. Born in 1997 in Minas Gerais, currently living and working at _Florianópolis - SC_, Brazil. Declared enemy of Typeorm automatic migrations, beautiful console terminals and the inexorable determinism of Laplace's demons. 
@@ -17,3 +15,4 @@ Last year worked as Oracle Developer at DBS Digital in Juiz de Fora - Minas gera
 Since late 2023, I've immersed myself back into hard-coding as a Developer at Interstar where I collaborate with a talented development team. In this role, I specialize in React, NestJS with TypeORM, and perform seamless integrations with external platforms, like clicksign, and (unfortunately) directus. Working within a collaborative team environment I exercise my organizational skills. Additionally, I proficiently handle SQL databases, particularly PostgreSQL. Currently, I am deeply engaged in the Libertas project, driving innovation and excellence in software development. 
 
 ▲ _Alea iacta est_ ▲
+![1](https://github.com/user-attachments/assets/b66a0259-8dbf-4094-9990-aacb96cf677a)
