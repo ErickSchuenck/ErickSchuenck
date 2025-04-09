@@ -1,5 +1,6 @@
 # Erick Schuenck Fava Mokdeci
- 
+![alea](https://github.com/user-attachments/assets/709116d8-47f2-4bf9-931b-e0cb8047852a)
+
 ## About me:
 
 Developer since 2021, studied at Driven Education. Born in 1997 in Minas Gerais, currently living and working at _Florianópolis - SC_, Brazil. Declared enemy of Typeorm automatic migrations, beautiful console terminals and the inexorable determinism of Laplace's demons. 
