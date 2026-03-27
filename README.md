@@ -1,4 +1,4 @@
-# Erick Schuenck
+# Erick Schuenck F Mokdeci
 ## About me:
 Developer since late 2021, studied at Driven Education. Born in 1997 in _Pedra Dourada - MG_, currently living and working at _Florianópolis - SC_, Brazil. Declared enemy of Typeorm automatic migrations, beautiful console terminals and the inexorable determinism of Laplace's demons. 
 
